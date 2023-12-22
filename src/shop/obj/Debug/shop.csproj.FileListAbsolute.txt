@@ -1,0 +1,183 @@
+D:\lebedev\Сессия 1\shop\shop\bin\Debug\shop.exe.config
+D:\lebedev\Сессия 1\shop\shop\bin\Debug\shop.exe
+D:\lebedev\Сессия 1\shop\shop\bin\Debug\shop.pdb
+D:\lebedev\Сессия 1\shop\shop\bin\Debug\MySql.Data.dll
+D:\lebedev\Сессия 1\shop\shop\bin\Debug\Google.Protobuf.dll
+D:\lebedev\Сессия 1\shop\shop\bin\Debug\ZstdNet.dll
+D:\lebedev\Сессия 1\shop\shop\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\lebedev\Сессия 1\shop\shop\bin\Debug\BouncyCastle.Crypto.dll
+D:\lebedev\Сессия 1\shop\shop\bin\Debug\System.Memory.dll
+D:\lebedev\Сессия 1\shop\shop\bin\Debug\System.Buffers.dll
+D:\lebedev\Сессия 1\shop\shop\bin\Debug\K4os.Compression.LZ4.dll
+D:\lebedev\Сессия 1\shop\shop\bin\Debug\K4os.Hash.xxHash.dll
+D:\lebedev\Сессия 1\shop\shop\bin\Debug\MySql.Data.xml
+D:\lebedev\Сессия 1\shop\shop\obj\Debug\shop.csproj.AssemblyReference.cache
+D:\lebedev\Сессия 1\shop\shop\obj\Debug\shop.exe.config
+D:\lebedev\Сессия 1\shop\shop\obj\Debug\shop.Form1.resources
+D:\lebedev\Сессия 1\shop\shop\obj\Debug\shop.Forms.main.resources
+D:\lebedev\Сессия 1\shop\shop\obj\Debug\shop.Properties.Resources.resources
+D:\lebedev\Сессия 1\shop\shop\obj\Debug\shop.csproj.GenerateResource.cache
+D:\lebedev\Сессия 1\shop\shop\obj\Debug\shop.csproj.CoreCompileInputs.cache
+D:\lebedev\Сессия 1\shop\shop\obj\Debug\shop.csproj.CopyComplete
+D:\lebedev\Сессия 1\shop\shop\obj\Debug\shop.exe
+D:\lebedev\Сессия 1\shop\shop\obj\Debug\shop.pdb
+D:\lebedev\Сессия 1\shop\shop\obj\Debug\shop.Forms.User.resources
+D:\lebedev\Сессия1\shop\shop\bin\Debug\shop.exe.config
+D:\lebedev\Сессия1\shop\shop\bin\Debug\shop.exe
+D:\lebedev\Сессия1\shop\shop\bin\Debug\shop.pdb
+D:\lebedev\Сессия1\shop\shop\bin\Debug\MySql.Data.dll
+D:\lebedev\Сессия1\shop\shop\bin\Debug\Google.Protobuf.dll
+D:\lebedev\Сессия1\shop\shop\bin\Debug\ZstdNet.dll
+D:\lebedev\Сессия1\shop\shop\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\lebedev\Сессия1\shop\shop\bin\Debug\BouncyCastle.Crypto.dll
+D:\lebedev\Сессия1\shop\shop\bin\Debug\System.Memory.dll
+D:\lebedev\Сессия1\shop\shop\bin\Debug\System.Buffers.dll
+D:\lebedev\Сессия1\shop\shop\bin\Debug\K4os.Compression.LZ4.dll
+D:\lebedev\Сессия1\shop\shop\bin\Debug\K4os.Hash.xxHash.dll
+D:\lebedev\Сессия1\shop\shop\bin\Debug\MySql.Data.xml
+D:\lebedev\Сессия1\shop\shop\obj\Debug\shop.csproj.AssemblyReference.cache
+D:\lebedev\Сессия1\shop\shop\obj\Debug\shop.exe.config
+D:\lebedev\Сессия1\shop\shop\obj\Debug\shop.Forms.main.resources
+D:\lebedev\Сессия1\shop\shop\obj\Debug\shop.Forms.Product.resources
+D:\lebedev\Сессия1\shop\shop\obj\Debug\shop.Forms.ProductAddOrChange.resources
+D:\lebedev\Сессия1\shop\shop\obj\Debug\shop.Forms.User.resources
+D:\lebedev\Сессия1\shop\shop\obj\Debug\shop.Properties.Resources.resources
+D:\lebedev\Сессия1\shop\shop\obj\Debug\shop.csproj.GenerateResource.cache
+D:\lebedev\Сессия1\shop\shop\obj\Debug\shop.csproj.CoreCompileInputs.cache
+D:\lebedev\Сессия1\shop\shop\obj\Debug\shop.csproj.CopyComplete
+D:\lebedev\Сессия1\shop\shop\obj\Debug\shop.exe
+D:\lebedev\Сессия1\shop\shop\obj\Debug\shop.pdb
+E:\Учеба\Практика\myshop\Сессия1\shop\shop\bin\Debug\shop.exe.config
+E:\Учеба\Практика\myshop\Сессия1\shop\shop\bin\Debug\shop.exe
+E:\Учеба\Практика\myshop\Сессия1\shop\shop\bin\Debug\shop.pdb
+E:\Учеба\Практика\myshop\Сессия1\shop\shop\bin\Debug\MySql.Data.dll
+E:\Учеба\Практика\myshop\Сессия1\shop\shop\obj\Debug\shop.csproj.AssemblyReference.cache
+E:\Учеба\Практика\myshop\Сессия1\shop\shop\obj\Debug\shop.Forms.main.resources
+E:\Учеба\Практика\myshop\Сессия1\shop\shop\obj\Debug\shop.Forms.Product.resources
+E:\Учеба\Практика\myshop\Сессия1\shop\shop\obj\Debug\shop.Forms.ProductAddOrChange.resources
+E:\Учеба\Практика\myshop\Сессия1\shop\shop\obj\Debug\shop.Forms.User.resources
+E:\Учеба\Практика\myshop\Сессия1\shop\shop\obj\Debug\shop.Properties.Resources.resources
+E:\Учеба\Практика\myshop\Сессия1\shop\shop\obj\Debug\shop.csproj.GenerateResource.cache
+E:\Учеба\Практика\myshop\Сессия1\shop\shop\obj\Debug\shop.csproj.CoreCompileInputs.cache
+E:\Учеба\Практика\myshop\Сессия1\shop\shop\obj\Debug\shop.csproj.CopyComplete
+E:\Учеба\Практика\myshop\Сессия1\shop\shop\obj\Debug\shop.exe
+E:\Учеба\Практика\myshop\Сессия1\shop\shop\obj\Debug\shop.pdb
+E:\Учеба\Практика\myshop\Сессия1\shop\shop\obj\Debug\shop.Forms.Autorization.resources
+D:\lebedev\Сессия1\shop\shop\obj\Debug\shop.Forms.Autorization.resources
+D:\lebedev\Сессия1\shop\shop\obj\Debug\shop.Forms.UserAddAndChange.resources
+C:\Users\One\Downloads\Сессия1\Сессия1\shop\shop\bin\Debug\shop.exe.config
+C:\Users\One\Downloads\Сессия1\Сессия1\shop\shop\bin\Debug\shop.exe
+C:\Users\One\Downloads\Сессия1\Сессия1\shop\shop\bin\Debug\shop.pdb
+C:\Users\One\Downloads\Сессия1\Сессия1\shop\shop\bin\Debug\MySql.Data.dll
+C:\Users\One\Downloads\Сессия1\Сессия1\shop\shop\obj\Debug\shop.csproj.AssemblyReference.cache
+C:\Users\One\Downloads\Сессия1\Сессия1\shop\shop\obj\Debug\shop.Forms.Autorization.resources
+C:\Users\One\Downloads\Сессия1\Сессия1\shop\shop\obj\Debug\shop.Forms.Main.resources
+C:\Users\One\Downloads\Сессия1\Сессия1\shop\shop\obj\Debug\shop.Forms.Product.resources
+C:\Users\One\Downloads\Сессия1\Сессия1\shop\shop\obj\Debug\shop.Forms.ProductAddOrChange.resources
+C:\Users\One\Downloads\Сессия1\Сессия1\shop\shop\obj\Debug\shop.Forms.User.resources
+C:\Users\One\Downloads\Сессия1\Сессия1\shop\shop\obj\Debug\shop.Forms.UserAddAndChange.resources
+C:\Users\One\Downloads\Сессия1\Сессия1\shop\shop\obj\Debug\shop.Properties.Resources.resources
+C:\Users\One\Downloads\Сессия1\Сессия1\shop\shop\obj\Debug\shop.csproj.GenerateResource.cache
+C:\Users\One\Downloads\Сессия1\Сессия1\shop\shop\obj\Debug\shop.csproj.CoreCompileInputs.cache
+C:\Users\One\Downloads\Сессия1\Сессия1\shop\shop\obj\Debug\shop.csproj.CopyComplete
+C:\Users\One\Downloads\Сессия1\Сессия1\shop\shop\obj\Debug\shop.exe
+C:\Users\One\Downloads\Сессия1\Сессия1\shop\shop\obj\Debug\shop.pdb
+D:\lebedev\Сессия1\shop\shop\obj\Debug\shop.Forms.BasketShow.resources
+C:\Users\One\Downloads\Сессия1\Сессия1\shop\shop\obj\Debug\shop.Forms.BasketShow.resources
+E:\Учеба\Практика\myshop\Сессия1\shop\shop\obj\Debug\shop.Forms.BasketShow.resources
+E:\Учеба\Практика\myshop\Сессия1\shop\shop\obj\Debug\shop.Forms.ShowOrders.resources
+E:\Учеба\Практика\myshop\Сессия1\shop\shop\obj\Debug\shop.Forms.ShowStructureOrder.resources
+E:\Учеба\Практика\myshop\Сессия1\shop\shop\obj\Debug\shop.Forms.UserAddAndChange.resources
+E:\Учеба\Практика\myshop\Сессия1\shop\shop\bin\Debug\MySqlBackup.dll
+E:\Учеба\Практика\myshop\Сессия1\shop\shop\obj\Debug\shop.Forms.ImportAndExportData.resources
+E:\Учеба\Практика\myshop\Сессия1\shop\shop\obj\Debug\shop.Forms.RestoreData.resources
+D:\lebedev\Сессия1\shop\shop\obj\Debug\shop.Forms.AddAndDeleteDiscount.resources
+D:\lebedev\Сессия1\shop\shop\obj\Debug\shop.Forms.ImportAndExportData.resources
+D:\lebedev\Сессия1\shop\shop\obj\Debug\shop.Forms.RestoreData.resources
+D:\lebedev\Сессия1\shop\shop\obj\Debug\shop.Forms.ShowOrders.resources
+D:\lebedev\Сессия1\shop\shop\obj\Debug\shop.Forms.ShowStructureOrder.resources
+D:\lebedev\Сессия1\shop\shop\obj\Debug\Interop.ADODB.dll
+D:\lebedev\Сессия1\shop\shop\obj\Debug\Interop.Microsoft.Office.Interop.Word.dll
+D:\lebedev\Сессия1\shop\shop\obj\Debug\shop.csproj.ResolveComReference.cache
+D:\lebedev\Готовое\src\shop\bin\Debug\shop.exe.config
+D:\lebedev\Готовое\src\shop\bin\Debug\shop.exe
+D:\lebedev\Готовое\src\shop\bin\Debug\shop.pdb
+D:\lebedev\Готовое\src\shop\bin\Debug\MySql.Data.dll
+D:\lebedev\Готовое\src\shop\bin\Debug\Google.Protobuf.dll
+D:\lebedev\Готовое\src\shop\bin\Debug\ZstdNet.dll
+D:\lebedev\Готовое\src\shop\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\lebedev\Готовое\src\shop\bin\Debug\BouncyCastle.Crypto.dll
+D:\lebedev\Готовое\src\shop\bin\Debug\System.Memory.dll
+D:\lebedev\Готовое\src\shop\bin\Debug\System.Buffers.dll
+D:\lebedev\Готовое\src\shop\bin\Debug\K4os.Compression.LZ4.dll
+D:\lebedev\Готовое\src\shop\bin\Debug\K4os.Hash.xxHash.dll
+D:\lebedev\Готовое\src\shop\bin\Debug\MySql.Data.xml
+D:\lebedev\Готовое\src\shop\obj\Debug\shop.csproj.AssemblyReference.cache
+D:\lebedev\Готовое\src\shop\obj\Debug\shop.exe.config
+D:\lebedev\Готовое\src\shop\obj\Debug\Interop.ADODB.dll
+D:\lebedev\Готовое\src\shop\obj\Debug\Interop.Microsoft.Office.Interop.Word.dll
+D:\lebedev\Готовое\src\shop\obj\Debug\shop.csproj.ResolveComReference.cache
+D:\lebedev\Готовое\src\shop\obj\Debug\shop.Forms.AddAndDeleteDiscount.resources
+D:\lebedev\Готовое\src\shop\obj\Debug\shop.Forms.Autorization.resources
+D:\lebedev\Готовое\src\shop\obj\Debug\shop.Forms.BasketShow.resources
+D:\lebedev\Готовое\src\shop\obj\Debug\shop.Forms.ImportAndExportData.resources
+D:\lebedev\Готовое\src\shop\obj\Debug\shop.Forms.Main.resources
+D:\lebedev\Готовое\src\shop\obj\Debug\shop.Forms.Product.resources
+D:\lebedev\Готовое\src\shop\obj\Debug\shop.Forms.ProductAddOrChange.resources
+D:\lebedev\Готовое\src\shop\obj\Debug\shop.Forms.RestoreData.resources
+D:\lebedev\Готовое\src\shop\obj\Debug\shop.Forms.ShowOrders.resources
+D:\lebedev\Готовое\src\shop\obj\Debug\shop.Forms.ShowStructureOrder.resources
+D:\lebedev\Готовое\src\shop\obj\Debug\shop.Forms.User.resources
+D:\lebedev\Готовое\src\shop\obj\Debug\shop.Forms.UserAddAndChange.resources
+D:\lebedev\Готовое\src\shop\obj\Debug\shop.Properties.Resources.resources
+D:\lebedev\Готовое\src\shop\obj\Debug\shop.csproj.GenerateResource.cache
+D:\lebedev\Готовое\src\shop\obj\Debug\shop.csproj.CoreCompileInputs.cache
+D:\lebedev\Готовое\src\shop\obj\Debug\shop.csproj.CopyComplete
+D:\lebedev\Готовое\src\shop\obj\Debug\shop.exe
+D:\lebedev\Готовое\src\shop\obj\Debug\shop.pdb
+E:\Учеба\Практика\myshop\Готовое\src\shop\obj\Debug\shop.exe.config
+E:\Учеба\Практика\myshop\Готовое\src\shop\obj\Debug\Interop.ADODB.dll
+E:\Учеба\Практика\myshop\Готовое\src\shop\obj\Debug\shop.exe
+E:\Учеба\Практика\myshop\Готовое\src\shop\obj\Debug\shop.pdb
+E:\Учеба\Практика\myshop\Готовое\src\shop\obj\Debug\shop.csproj.ResolveComReference.cache
+E:\Учеба\Практика\myshop\Готовое\src\shop\obj\Debug\shop.Forms.AddAndDeleteDiscount.resources
+E:\Учеба\Практика\myshop\Готовое\src\shop\obj\Debug\shop.Forms.Autorization.resources
+E:\Учеба\Практика\myshop\Готовое\src\shop\obj\Debug\shop.Forms.BasketShow.resources
+E:\Учеба\Практика\myshop\Готовое\src\shop\obj\Debug\shop.Forms.ImportAndExportData.resources
+E:\Учеба\Практика\myshop\Готовое\src\shop\obj\Debug\shop.Forms.Main.resources
+E:\Учеба\Практика\myshop\Готовое\src\shop\obj\Debug\shop.Forms.Product.resources
+E:\Учеба\Практика\myshop\Готовое\src\shop\obj\Debug\shop.Forms.ProductAddOrChange.resources
+E:\Учеба\Практика\myshop\Готовое\src\shop\obj\Debug\shop.Forms.RestoreData.resources
+E:\Учеба\Практика\myshop\Готовое\src\shop\obj\Debug\shop.Forms.ShowOrders.resources
+E:\Учеба\Практика\myshop\Готовое\src\shop\obj\Debug\shop.Forms.ShowStructureOrder.resources
+E:\Учеба\Практика\myshop\Готовое\src\shop\obj\Debug\shop.Forms.User.resources
+E:\Учеба\Практика\myshop\Готовое\src\shop\obj\Debug\shop.Forms.UserAddAndChange.resources
+E:\Учеба\Практика\myshop\Готовое\src\shop\obj\Debug\shop.Properties.Resources.resources
+E:\Учеба\Практика\myshop\Готовое\src\shop\obj\Debug\shop.csproj.GenerateResource.cache
+E:\Учеба\Практика\myshop\Готовое\src\shop\obj\Debug\shop.csproj.CoreCompileInputs.cache
+E:\Учеба\Практика\myshop\Готовое\src\shop\bin\Debug\shop.exe.config
+E:\Учеба\Практика\myshop\Готовое\src\shop\bin\Debug\shop.exe
+E:\Учеба\Практика\myshop\Готовое\src\shop\bin\Debug\shop.pdb
+E:\Учеба\Практика\myshop\Готовое\src\shop\bin\Debug\MySql.Data.dll
+E:\Учеба\Практика\myshop\Готовое\src\shop\bin\Debug\MySqlBackup.dll
+E:\Учеба\Практика\myshop\Готовое\src\shop\bin\Debug\Google.Protobuf.dll
+E:\Учеба\Практика\myshop\Готовое\src\shop\bin\Debug\Zstandard.Net.dll
+E:\Учеба\Практика\myshop\Готовое\src\shop\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Учеба\Практика\myshop\Готовое\src\shop\bin\Debug\BouncyCastle.Crypto.dll
+E:\Учеба\Практика\myshop\Готовое\src\shop\bin\Debug\Ubiety.Dns.Core.dll
+E:\Учеба\Практика\myshop\Готовое\src\shop\bin\Debug\System.Memory.dll
+E:\Учеба\Практика\myshop\Готовое\src\shop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Учеба\Практика\myshop\Готовое\src\shop\bin\Debug\System.Buffers.dll
+E:\Учеба\Практика\myshop\Готовое\src\shop\bin\Debug\K4os.Compression.LZ4.dll
+E:\Учеба\Практика\myshop\Готовое\src\shop\bin\Debug\K4os.Hash.xxHash.dll
+E:\Учеба\Практика\myshop\Готовое\src\shop\bin\Debug\MySql.Data.xml
+E:\Учеба\Практика\myshop\Готовое\src\shop\bin\Debug\Google.Protobuf.pdb
+E:\Учеба\Практика\myshop\Готовое\src\shop\bin\Debug\Google.Protobuf.xml
+E:\Учеба\Практика\myshop\Готовое\src\shop\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Учеба\Практика\myshop\Готовое\src\shop\bin\Debug\System.Memory.xml
+E:\Учеба\Практика\myshop\Готовое\src\shop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Учеба\Практика\myshop\Готовое\src\shop\bin\Debug\System.Buffers.xml
+E:\Учеба\Практика\myshop\Готовое\src\shop\bin\Debug\K4os.Compression.LZ4.xml
+E:\Учеба\Практика\myshop\Готовое\src\shop\bin\Debug\K4os.Hash.xxHash.xml
+E:\Учеба\Практика\myshop\Готовое\src\shop\obj\Debug\shop.csproj.CopyComplete
+E:\Учеба\Практика\myshop\Готовое\src\shop\obj\Debug\shop.csproj.AssemblyReference.cache
